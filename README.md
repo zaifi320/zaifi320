@@ -130,9 +130,11 @@ Scrapy-based web scraping project for collecting structured real-estate listing 
 
 ## 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaifi320&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Huzaifa's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaifi320&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaifi320&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaifi320&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
