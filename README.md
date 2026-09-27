@@ -143,14 +143,6 @@ Scrapy-based web scraping project for collecting structured real-estate listing 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaifi320&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📌 What I'm Working On
 
 * 📊 Building Power BI dashboards for real-world datasets
