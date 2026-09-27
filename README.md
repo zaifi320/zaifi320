@@ -71,7 +71,11 @@ Interactive **3-page Power BI dashboard** built using real-estate data collected
 **Power BI • DAX • Power Query • Python • Web Scraping • Data Analysis**
 
 <a href="https://github.com/zaifi320/Zameen-Real-Estate-Analysis-Powerbi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zaifi320&repo=Zameen-Real-Estate-Analysis-Powerbi&theme=transparent" alt="Zameen Real Estate Analysis Dashboard"/>
+  <img 
+    src="https://raw.githubusercontent.com/zaifi320/Zameen-Real-Estate-Analysis-Powerbi/main/Screenshots/Zameen%20Dashboard-page-1.png"
+    alt="Zameen Real Estate Analysis Dashboard"
+    width="48%"
+  />
 </a>
 
 ---
@@ -83,7 +87,11 @@ Power BI dashboard for analyzing financial transactions, fees, taxes, transactio
 **Power BI • DAX • Power Query • Data Analytics**
 
 <a href="https://github.com/zaifi320/powerbi-finance-analysis-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zaifi320&repo=powerbi-finance-analysis-dashboard&theme=transparent" alt="Finance Analysis Dashboard"/>
+  <img 
+    src="https://raw.githubusercontent.com/zaifi320/powerbi-finance-analysis-dashboard/main/Screenshots/finance-dashboard.png"
+    alt="Finance Analysis Dashboard"
+    width="48%"
+  />
 </a>
 
 ---
