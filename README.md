@@ -88,7 +88,7 @@ Power BI dashboard for analyzing financial transactions, fees, taxes, transactio
 
 <a href="https://github.com/zaifi320/powerbi-finance-analysis-dashboard">
   <img 
-    src="https://raw.githubusercontent.com/zaifi320/powerbi-finance-analysis-dashboard/main/Screenshots/finance-dashboard.png"
+    src="https://raw.githubusercontent.com/zaifi320/powerbi-finance-analysis-dashboard/main/Screenshots/overview-analysis.jpg"
     alt="Finance Analysis Dashboard"
     width="48%"
   />
