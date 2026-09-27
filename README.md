@@ -100,11 +100,19 @@ Power BI dashboard for analyzing financial transactions, fees, taxes, transactio
 
 Interactive dashboard for analyzing revenue, orders, customers, products, payment methods and sales trends.
 
-**Power BI • SQL • Excel • DAX • Data Analysis**
+<h3>🛒 E-Commerce Sales Dashboard</h3>
 
 <a href="https://github.com/zaifi320/E-Commerce-Sales-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zaifi320&repo=E-Commerce-Sales-Dashboard&theme=transparent" alt="E-Commerce Sales Dashboard"/>
+  <img 
+    src="https://raw.githubusercontent.com/zaifi320/E-Commerce-Sales-Dashboard/main/Dashboard Sample.png"
+    alt="E-Commerce Sales Dashboard"
+    width="800"
+  />
 </a>
+
+<p>
+  <b>Power BI • SQL • Excel • DAX • Data Analysis</b>
+</p>
 
 ---
 
