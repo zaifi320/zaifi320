@@ -140,13 +140,6 @@ Scrapy-based web scraping project for collecting structured real-estate listing 
   <img src="https://streak-stats.demolab.com/?user=zaifi320&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaifi320&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
